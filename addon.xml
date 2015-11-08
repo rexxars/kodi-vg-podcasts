@@ -17,6 +17,7 @@
     <description lang="no">Hør på podcasts fra VG.no.</description>
     <license>The MIT License (MIT)</license>
     <source>https://github.com/rexxars/kodi-vg-podcasts.git</source>
+    <forum>https://github.com/rexxars/kodi-vg-podcasts.git</forum>
     <email>espen@hovlandsdal.com</email>
   </extension>
 </addon>
