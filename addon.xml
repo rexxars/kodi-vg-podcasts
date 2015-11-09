@@ -12,9 +12,10 @@
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
     <language>no</language>
-    <summary>VG.no</summary>
-    <description>Enjoy podcasts from VG.no - News, sports and entertainment - mainly Norwegian.</description>
-    <description lang="no">Hør på podcasts fra VG.no.</description>
+    <summary lang="en">Podcasts from VG.no</summary>
+    <summary lang="no">Hør podcasts fra VG.no</summary>
+    <description lang="en">Enjoy podcasts from VG.no - News, sports and entertainment - mainly Norwegian.</description>
+    <description lang="no">Hør podcasts fra VG.no - Nyheter, sport og underholding.</description>
     <license>The MIT License (MIT)</license>
     <source>https://github.com/rexxars/kodi-vg-podcasts.git</source>
     <forum>https://github.com/rexxars/kodi-vg-podcasts.git</forum>
